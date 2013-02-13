@@ -2923,5 +2923,12 @@ var places = {
 				"id": "195"
 			}
 		}
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point"
+				"coordinates": [54.964164,-7.256298]
+			}
+		}
     ]
 };
